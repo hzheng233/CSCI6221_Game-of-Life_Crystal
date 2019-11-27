@@ -1,1 +1,3 @@
 *.css linguist-language = crystal
+*.js linguist-language = crystal
+*.html linguist-language = crystal
