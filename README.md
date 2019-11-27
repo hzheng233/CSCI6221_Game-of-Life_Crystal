@@ -18,8 +18,7 @@ Each cell with three neighbors becomes populated.
 
 ## The code
 
-This is a Crystal implementation of Game of Life with JS and HTML.
-Also use Kemal framework 
+This is a Crystal implementation of Game of Life with JS and HTML. Also use Kemal framework.
 
 ## Dependencies
 1. In order to run the project you must install Crystal: https://crystal-lang.org/docs/installation/.
